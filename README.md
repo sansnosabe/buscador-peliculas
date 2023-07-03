@@ -1,1 +1,1 @@
-Aplicación para buscar películas# buscador-peliculas
+Aplicación para buscar películas a traves de una API
